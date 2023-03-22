@@ -54,7 +54,7 @@
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>360</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>rama@flexagon.source</notifyTo>
+                <notifyTo>rama@flexagon.target</notifyTo>
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
@@ -82,7 +82,7 @@
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>240</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>rama@flexagon.source</notifyTo>
+                <notifyTo>rama@flexagon.target</notifyTo>
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
@@ -110,7 +110,7 @@
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>480</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>rama@flexagon.source</notifyTo>
+                <notifyTo>rama@flexagon.target</notifyTo>
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
@@ -133,7 +133,7 @@
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>720</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>rama@flexagon.source</notifyTo>
+                <notifyTo>rama@flexagon.target</notifyTo>
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
@@ -156,7 +156,7 @@
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>1440</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>rama@flexagon.source</notifyTo>
+                <notifyTo>rama@flexagon.target</notifyTo>
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
