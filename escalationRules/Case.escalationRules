@@ -21,12 +21,12 @@
                 <value>High</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>rama@flexagon.source</assignedTo>
+                <assignedTo>rama@flexagon.target</assignedTo>
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>120</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>rama@flexagon.source</notifyTo>
+                <notifyTo>rama@flexagon.target</notifyTo>
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
