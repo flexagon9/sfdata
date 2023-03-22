@@ -49,7 +49,7 @@
                 <value>Medium,Low</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>rama@flexagon.source</assignedTo>
+                <assignedTo>rama@flexagon.target</assignedTo>
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>360</minutesToEscalation>
@@ -77,7 +77,7 @@
                 <value>High</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>rama@flexagon.source</assignedTo>
+                <assignedTo>rama@flexagon.target</assignedTo>
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>240</minutesToEscalation>
@@ -105,7 +105,7 @@
                 <value>Medium,Low</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>rama@flexagon.source</assignedTo>
+                <assignedTo>rama@flexagon.target</assignedTo>
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>480</minutesToEscalation>
@@ -128,7 +128,7 @@
                 <value>Silver</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>rama@flexagon.source</assignedTo>
+                <assignedTo>rama@flexagon.target</assignedTo>
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>720</minutesToEscalation>
@@ -151,7 +151,7 @@
                 <value>Bronze</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>rama@flexagon.source</assignedTo>
+                <assignedTo>rama@flexagon.target</assignedTo>
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>1440</minutesToEscalation>
@@ -174,12 +174,12 @@
                 <value>Gold,Platinum</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>rama@flexagon.source</assignedTo>
+                <assignedTo>rama@flexagon.target</assignedTo>
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>360</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>rama@flexagon.source</notifyTo>
+                <notifyTo>rama@flexagon.target</notifyTo>
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
@@ -197,12 +197,12 @@
                 <value>Silver,Bronze</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>rama@flexagon.source</assignedTo>
+                <assignedTo>rama@flexagon.target</assignedTo>
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>1080</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>rama@flexagon.source</notifyTo>
+                <notifyTo>rama@flexagon.target</notifyTo>
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
